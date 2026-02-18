@@ -82,13 +82,5 @@ I’m open to collaborating on:
 
 ---
 
-# 📊 GitHub Stats
-
-![Nikshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshay-official&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikshay-official&layout=compact&theme=default)
-
----
-
 # ⚡ Fun Fact
 I enjoy turning raw datasets into intelligent predictive systems.
