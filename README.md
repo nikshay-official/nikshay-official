@@ -84,9 +84,9 @@ I’m open to collaborating on:
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshay-official&show_icons=true)
+![Nikshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshay-official&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikshay-official&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikshay-official&layout=compact&theme=default)
 
 ---
 
