@@ -23,6 +23,12 @@ TF-IDF based text classification model using Logistic Regression with real-time 
 
 ---
 
+## 🔹 Movie Recommendation System
+A movie recommendation system using NLP (CountVectorizer) and cosine similarity. 
+Built with Flask and integrated with TMDB API to display movie posters and provide real-time recommendations.
+**Tech Stack:** Python, Pandas, Scikit-learn, Flask, NLP, TMDB API
+🔗 Repo: https://github.com/nikshay-official/Movie-Recommendation-System
+
 # 🛠️ Tech Stack
 
 **Programming**  
